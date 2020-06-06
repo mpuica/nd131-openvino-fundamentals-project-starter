@@ -22,4 +22,5 @@ export const MQTT = {
     PERSON: "person", // how many people did we see
     DURATION: "person/duration", // how long were they on frame
   },
+  TRANSPORTS: ['websocket']
 };
